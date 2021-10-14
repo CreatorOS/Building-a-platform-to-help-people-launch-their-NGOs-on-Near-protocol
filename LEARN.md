@@ -305,7 +305,7 @@ This will open up your web browser for generating a wallet. Just follow the inst
 
 For reference check out below gif:
 
-![](https://qb-content-staging.s3.ap-south-1.amazonaws.com/public/fb231f7d-06af-4aff-bca3-fd51cb633f77/f7b0fd71-3eba-4de5-98c1-841a78589c58.jpg)
+![](learn_src/learn_assets/f7b0fd71-3eba-4de5-98c1-841a78589c58.gif)
 
 The credentials for this account will also be stored at `~/.near-credentials/testnet`
 
